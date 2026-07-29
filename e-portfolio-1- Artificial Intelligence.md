@@ -2,11 +2,14 @@
 A collection of artefacts that demonstrate what I have learnt about Artificial Intelligence this week
 
 # Artefact 1: What is Artifical Intelligence (AI)?
-Summary
+<img width="923" height="714" alt="image" src="https://github.com/user-attachments/assets/dd3e7ff9-de7d-4996-8630-b83be1df7ac1" />
+https://youtu.be/JcXKbUIebrU?si=GYakt5CwA5e9BoNF
+
+# Summary
 
 Learn Bright YouTube channel gives an explanation of Artificial Intelligence (AI) in simple and easy terms. It presents the concepts of Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI), and demonstrates the existing applications of AI in daily life, such as voice assistants, recommendation systems, robotics and automation. The video also focuses on the advantages of AI, like increasing efficiency and improving problem-solving, as well as issues like job replacement and the improper usage of technology.
 
-Reflection and Justification
+# Reflection and Justification
 
 I chose this video as it was an excellent introduction to the concept of AI prior to moving on to more in-depth ethical considerations in the unit. Prior to watching it, I'd been mostly using AI in relation to ChatGPT, but I learned that there are many years of AI in various forms. This artefact is directly related to our unit as the concepts of AI are fundamental to the discussion of governance, privacy, fairness, and ethical responsibilities of an ICT professional. It allowed me to gain a better understanding that AI is more than generative AI.
 

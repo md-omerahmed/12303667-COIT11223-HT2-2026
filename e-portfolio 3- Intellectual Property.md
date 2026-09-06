@@ -17,7 +17,7 @@ Federal government rejects proposal to repeal copyright laws, give AI companies 
 <img width="2836" height="1440" alt="image" src="https://github.com/user-attachments/assets/443885af-a6a2-4cff-9a90-4858914d9409" />
 https://www.abc.net.au/news/2025-10-27/labor-rules-out-ai-training-copyright-exceptions/105935740
 
-# Detailed summary of the artefac
+# Detailed summary of the artefact
 The government has put its foot down on the introduction of a copyright exemption for AI companies training models using Australian creative works, says Truu (2025). A plan to allow AI developers to copy creative work from others without permission proposed in a Productivity Commission report and was heavily criticized by musicians, authors and others. The Attorney-General said the government would be unlikely to dilute the copyright protections and a working group is still looking at both the licensing and enforcement issues involved in ensuring creators are paid for when their work is used to train artificial intelligence systems.
 
 # Justification on why I chose the artefact

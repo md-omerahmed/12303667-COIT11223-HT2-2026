@@ -4,6 +4,7 @@ This e-Portfolio explores the ethical issues surrounding government censorship, 
 # Artefact 1: Australian Social Media Age Restrictions – eSafety Commissioner
 Artefact: eSafety Commissioner, Restrictions on social media age.
 <img width="1913" height="989" alt="image" src="https://github.com/user-attachments/assets/8738f9c2-5798-4571-bf6f-44b9f787fbcf" />
+https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions.
 
 # Summary about the artefact
 The eSafety Commissioner website explains Australia's social media age restrictions. Since 10 December 2025, age-restricted platforms including Instagram, TikTok, X, Reddit and YouTube have been required to take reasonable steps to prevent Australians under 16 from creating or keeping accounts. However, under-16s can still access publicly available content that does not require an account (eSafety Commissioner 2026).
@@ -14,6 +15,7 @@ I chose this artefact because it changed my understanding of censorship. Previou
 # Artefact 2: Social Media Ban in Nepal (2025)
 Artefact: Reuters, Nepal raises social media ban after anti-corruption protests kill 19, imposes curfew.
 <img width="1910" height="981" alt="image" src="https://github.com/user-attachments/assets/4bb1d6ad-bd38-49d8-9c44-dfa8d7a25ef0" />
+https://www.reuters.com/world/asia-pacific/nepal-lifts-social-media-ban-after-anti-corruption-protests-leave-19-dead-curfew-2025-09-09/.
 
 # Summary about the artefact
 The Reuters article reports on Nepal's 2025 social media ban, which blocked access to several major platforms that had not registered with the government. Government officials linked the restrictions to concerns including fake accounts, misinformation and hate speech. The decision became connected with wider youth-led anti-corruption protests. After protests in which 19 people were killed and more than 100 were injured, the government lifted the social media restrictions (Sharma & Chitrakar 2025).
@@ -24,6 +26,7 @@ I chose this artefact because it demonstrates how digital regulation can become 
 # Artefact 3: Scholarly Article – Digital Authoritarianism and Democracy
 Artefact: Maerz, SF 2025, How practices of digital authoritarianism harm democracy, Democratization.
 <img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/a75e5730-f2aa-4001-bfe0-7365ae347d9c" />
+https://doi.org/10.1080/13510347.2025.2553826.
 
 # Summary
 Maerz (2025) looks at digital authoritarianism, which covers government disinformation, social media surveillance, access to personal data, social media shutdowns and censorship. It explains how government control of the online public sphere can impact on civil liberties and freedom of expression, and how digital technologies can be used to control the public sphere.
@@ -45,8 +48,8 @@ I chose this artefact because the workshop changed how I thought about censorshi
 
 CQUniversity 2026, Week 9: Censorship and Government, COIT11223 ICT Ethics and Governance in Society, lecture and workshop materials, CQUniversity, Moodle, viewed 20 September 2026.
 
-eSafety Commissioner 2026, Social media age restrictions, Australian Government, viewed 17 September 2026, eSafety Commissioner.
+eSafety Commissioner 2026, Social media age restrictions, Australian Government, viewed 17 September 2026, eSafety Commissioner. https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions.
 
-Maerz, SF 2026, ‘How practices of digital authoritarianism harm democracy’, Democratization, vol. 33, no. 1, pp. 163–190, DOI article.
+Maerz, SF 2026, ‘How practices of digital authoritarianism harm democracy’, Democratization, vol. 33, no. 1, pp. 163–190, DOI article. https://doi.org/10.1080/13510347.2025.2553826.
 
-Sharma, G & Chitrakar, N 2025, ‘Nepal lifts social media ban after protests leave 19 dead, minister says’, Reuters, 9 September, viewed 17 September 2026, Reuters article.
+Sharma, G & Chitrakar, N 2025, ‘Nepal lifts social media ban after protests leave 19 dead, minister says’, Reuters, 9 September, viewed 17 September 2026, Reuters article. https://www.reuters.com/world/asia-pacific/nepal-lifts-social-media-ban-after-anti-corruption-protests-leave-19-dead-curfew-2025-09-09/.

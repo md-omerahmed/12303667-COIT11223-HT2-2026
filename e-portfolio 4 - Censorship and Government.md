@@ -38,9 +38,9 @@ I selected this article because it broadened my views of censorship beyond just 
 My Week 9 workshop participation and selfie with my classmates and teacher.
 <img width="1600" height="1200" alt="ethic 1" src="https://github.com/user-attachments/assets/c021c43e-3dfe-4239-9e31-028eca276f6e" />
 
-Workshop week 7
+Workshop week 9
 
-Date: 06th September, 2026
+Date: 20th September, 2026
 
 Day: Sunday
 

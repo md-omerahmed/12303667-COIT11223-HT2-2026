@@ -38,6 +38,18 @@ I selected this article because it broadened my views of censorship beyond just 
 My Week 9 workshop participation and selfie with my classmates and teacher.
 <img width="1600" height="1200" alt="ethic 1" src="https://github.com/user-attachments/assets/c021c43e-3dfe-4239-9e31-028eca276f6e" />
 
+Workshop week 7
+
+Date: 06th September, 2026
+
+Day: Sunday
+
+Tutor: Umapathy Venugopal
+
+Unit Coordinator: Gitte Galea
+
+Campus: Sydney
+
 # Summary
 At the Week 9 workshop, we spoke about government censorship, social media regulations and private technology companies, and freedom of expression (CQUniversity 2026). I will never forget the incident regarding the ASIC website blocker as it was unintentionally affecting around 250,000 websites (CQUniversity 2026).
 

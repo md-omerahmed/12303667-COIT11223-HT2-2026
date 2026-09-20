@@ -2,47 +2,47 @@
 This e-Portfolio explores the ethical issues surrounding government censorship, social media regulation, freedom of expression, and the responsibilities of ICT professionals.
 
 # Artefact 1: Australian Social Media Age Restrictions – eSafety Commissioner
-Artefact: eSafety Commissioner, Restrictions on social media age.
+eSafety Commissioner, Restrictions on social media age.
 <img width="1913" height="989" alt="image" src="https://github.com/user-attachments/assets/8738f9c2-5798-4571-bf6f-44b9f787fbcf" />
 https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions.
 
 # Summary about the artefact
-The eSafety Commissioner website explains Australia's social media age restrictions. Since 10 December 2025, age-restricted platforms including Instagram, TikTok, X, Reddit and YouTube have been required to take reasonable steps to prevent Australians under 16 from creating or keeping accounts. However, under-16s can still access publicly available content that does not require an account (eSafety Commissioner 2026).
+The eSafety Commissioner website has details on Australia's age restrictions. The platforms, such as Instagram, TikTok, X, Reddit and YouTube, have been mandated to make reasonable efforts to prevent Australians accessing the platforms under 16 since 10 December 2025. While an account is not required for publicly available content for under-16s, they do still have access to that type of content (eSafety Commissioner 2026).
 
 # Justification and reflection
-I chose this artefact because it changed my understanding of censorship. Previously, I mainly associated censorship with governments blocking websites or removing information. This example showed me that regulation can also restrict participation in digital services. Our Week 9 discussion about protecting people from harm while respecting individual freedom connected this issue to Mill's harm principle, which considers when intervention may be justified to prevent harm to others (CQUniversity 2026). It made me realise that restrictions should also be considered in terms of proportionality and transparency. As a future ICT professional, I would consider whether digital safety controls are technically accountable, transparent and carefully implemented.
+I selected this artefact for a couple of reasons; one of them was that it altered my understanding of censorship. I had previously only thought of censorship as governments blocking sites or getting rid of the information. This example taught me that regulation can be another avenue to exclusion for the use of digital services. This topic was further linked to Week 9 where we discussed protecting individuals from harm, while also respecting individual freedom, which relates to Mill's harm principle (CQUniversity 2026). It brought me to the understanding that there should be proportionality and transparency regarding restrictions. As an ICT professional I would think about how digital safety controls are technically responsible, transparent and well thought out.
 
 # Artefact 2: Social Media Ban in Nepal (2025)
-Artefact: Reuters, Nepal raises social media ban after anti-corruption protests kill 19, imposes curfew.
+Reuters, Nepal lifts social media ban after anti-corruption protests kill 19, imposes curfew.
 <img width="1910" height="981" alt="image" src="https://github.com/user-attachments/assets/4bb1d6ad-bd38-49d8-9c44-dfa8d7a25ef0" />
 https://www.reuters.com/world/asia-pacific/nepal-lifts-social-media-ban-after-anti-corruption-protests-leave-19-dead-curfew-2025-09-09/.
 
 # Summary about the artefact
-The Reuters article reports on Nepal's 2025 social media ban, which blocked access to several major platforms that had not registered with the government. Government officials linked the restrictions to concerns including fake accounts, misinformation and hate speech. The decision became connected with wider youth-led anti-corruption protests. After protests in which 19 people were killed and more than 100 were injured, the government lifted the social media restrictions (Sharma & Chitrakar 2025).
+In this Reuters article, readers will get a report on the Nepal 2025 social media ban, which included several major platforms that just haven't registered with the government. Concerns were expressed over fake accounts, misinformation and hate speech. The restrictions were later lifted after the protests by the young people in which 19 people were killed (Sharma & Chitrakar 2025).
 
 # Justification and reflection
-I chose this artefact because it demonstrates how digital regulation can become connected to wider social and political issues. It made me consider how restricting social media can affect communication, access to information and participation in public discussion. The case also helped me connect censorship with the ethical ideas discussed in Week 9 about individual autonomy and freedom of expression (CQUniversity 2026). Rather than viewing a government blocking request as only a technical instruction, I now understand that ICT professionals should also consider its social consequences. In my future ICT career, I would consider transparency, proportionality and the potential impact of implementing restrictions on digital communication.
+I selected this artefact because it demonstrates the possibility of digital regulation linking to broader social and political issues. Limiting social media may impact communication, information and engagement in public debate. This related to our Week 9 discussion about freedom of expression and individual autonomy (CQUniversity 2026). I would not just think of government blocking requests as a purely technical matter, as a future ICT professional, I would also take into account, transparency, proportionality and the social impact that it may have.
 
 # Artefact 3: Scholarly Article – Digital Authoritarianism and Democracy
-Artefact: Maerz, SF 2025, How practices of digital authoritarianism harm democracy, Democratization.
+Artefact: Maerz, SF 2026, How practices of digital authoritarianism harm democracy, Democratization.
 <img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/a75e5730-f2aa-4001-bfe0-7365ae347d9c" />
 https://doi.org/10.1080/13510347.2025.2553826.
 
 # Summary
-Maerz (2025) looks at digital authoritarianism, which covers government disinformation, social media surveillance, access to personal data, social media shutdowns and censorship. It explains how government control of the online public sphere can impact on civil liberties and freedom of expression, and how digital technologies can be used to control the public sphere.
+Maerz (2026, pp. 163–164) looks at digital authoritarianism, which covers government disinformation, social media surveillance, access to personal data, social media shutdowns and censorship. It explains how government control of the online public sphere can impact on civil liberties and freedom of expression, and how digital technologies can be used to control the public sphere.
 
 # Justification and Reflection
-I selected this article because it broadened my views of censorship beyond just getting rid of websites or social postings. Digital control can also be achieved by surveillance, manipulation, technical infrastructure. I was impressed by the role of the ICT professionals. Engineers can design filters, surveillance or data-processing systems without deciding on their policy, but nonetheless, their work will have a social impact. This was the first occasion that I realised that there is a need to take considerations of technical functionality alongside privacy, transparency, proportionality and the potential for misuse.
+I selected this article because it broadened my views of censorship beyond just getting rid of websites or social postings. Digital control can also be achieved by surveillance, manipulation, technical infrastructure (Maerz 2026, pp. 163–164). I was impressed by the role of the ICT professionals. Engineers can design filters, surveillance or data-processing systems without deciding on their policy, but nonetheless, their work will have a social impact. This was the first occasion that I realised that there is a need to take considerations of technical functionality alongside privacy, transparency, proportionality and the potential for misuse.
 
 # Artefact 4: Workshop Personal Reflection
-Artefact: My Week 9 workshop participation and selfie with my Friends and Teacher.
+My Week 9 workshop participation and selfie with my classmates and teacher.
 <img width="1600" height="1200" alt="ethic 1" src="https://github.com/user-attachments/assets/c021c43e-3dfe-4239-9e31-028eca276f6e" />
 
 # Summary
-During the Week 9 workshop, we discussed government censorship, social media regulation, private technology companies and freedom of expression. We also examined Australian examples of regulating online information and considered different ethical perspectives on censorship (CQUniversity 2026). One example that stood out to me was the ASIC website-blocking incident, where an IP-based blocking request unintentionally affected approximately 250,000 websites (CQUniversity 2026). This demonstrated how the technical implementation of censorship can create unintended consequences for innocent users.
+At the Week 9 workshop, we spoke about government censorship, social media regulations and private technology companies, and freedom of expression (CQUniversity 2026). I will never forget the incident regarding the ASIC website blocker as it was unintentionally affecting around 250,000 websites (CQUniversity 2026).
 
 # Justification and Reflection
-I chose this artefact because the workshop changed how I thought about censorship. Initially, I viewed censorship mainly negatively because people should generally be able to access information and express their ideas. However, discussing harmful and illegal online content showed me why some forms of regulation may be considered necessary. The ASIC example particularly demonstrated that even when a restriction has a legitimate purpose, poor technical implementation can affect innocent users (CQUniversity 2026). I now understand that ethical ICT practice requires considering both the purpose of a restriction and how it is implemented. In my future career, I would advocate for clear rules, human oversight, review mechanisms and safeguards against unintended blocking.
+I selected this artefact because it affected the way I thought about censorship in the workshop. The first thought that came to mind in connection with the word censorship was the negative connotation of the term as it implies that the people should be free to have access to information and express their ideas. But discussing bad and unlawful material demonstrated to me, however, why some regulation may be needed. The example also illustrated how bad technical execution can impact innocent users of ASIC. I now realize that restrictions should be thought of in terms of both purpose and implementation by ICT professionals. In my future career, I would back transparent rules, human input to prevent undesirable blocking and human oversight.
 
 # References
 

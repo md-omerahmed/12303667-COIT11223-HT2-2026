@@ -3,7 +3,7 @@
 This e-Portfolio examines ethical and societal questions related to automated decision making in government systems such as fairness, transparency, privacy, accountability and roles of ICT professionals. Six artefacts from today and the past, both Australian and overseas, are used in this exploration to relate ethical theories to actual cases and to consider how my understanding of the impact of ADM on society is evolving.
 
 # Artefact 1: Australian guidance on automated decisions
-Marine insurance, as covered in this guide, is one of many types of insurance.Marine insurance is one form of many types of insurance, as covered in this guide.
+Commonwealth Ombudsman 2025, Automated decision-making: better practice guide.
 
 <img width="740" height="1072" alt="image" src="https://github.com/user-attachments/assets/5c63281f-514e-44aa-aa8a-cb0c6854b371" />
 https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf

@@ -26,3 +26,36 @@ The quote is taken from the Services Australia 2025, Automation and artificial i
 
 
 # Summary
+Existing applications covered in Services Australia's strategy include digital assistants and AI-powered telephone routing. It also sets out safeguards including controlled experimentation, evaluation, monitoring and user feedback and the pausing of systems that no longer meet assurance requirements (Services Australia 2025, p. 5). It aims to “speed up services” and “transparency and accountability” in tandem with safety. This is a good example of automation beyond the final eligibility decision, throughout the service journey.
+
+# Justification and Reflection
+The reason i chose this artefact was to review the difference between commitments and demonstrated outcomes. n an act utilitarian sense, anyone's experience of a misrouted call is valuable as is the reduced waiting and administrative effort. Success would be measured by the outcomes of the services such as correction time and accessibility. The strategy outlines planned safeguards and different evaluation is required to verify the effectiveness of these.
+
+# Artefact 4: Stronger Australian AI governance requirements
+Digital Transformation Agency 2025, ‘AI policy overhauled with new impact assessment tool and procurement guidance’.
+
+
+# Summary
+This is the update of the government AI policy and the development of an impact assessment tool and procurement guidance for this December 2025 announcement. The tool enables agencies to identify risks related to AI based on Australia's AI Ethics Principles, and the procurement guidance covers decisions throughout the procurement lifecycle. The agency clearly states the assessment tool is not intended to replace the broad risk management approach, but rather to support it (Digital Transformation Agency [DTA] 2025).
+
+# Justification and reflection
+This announcement is used as an example of how ethics responsibilities start prior to deployment, whether it is through the government purchasing a supplier's system. My take on that is that buying technology also involves buying enough visibility to assess technology. This relates to professional accountability – an agency requires evidence on pertinent risks and controls. Inquiry cannot be demonstrated through completion of an assessment form, however an assessment form can structure inquiry.
+
+# Artefact 5: Organ allocation in the United Kingdom
+Data from NHS Blood and Transplant 2025, NHS Blood & Transplant: organ offering scheme algorithms.
+
+
+# Summary about the artefact
+This transparency record outlines algorithms for eligibility and ranking of eligible patients, based on clinically agreed criteria, in the UK. Identification of teams for implementation and monitoring, including clinical and patient communities, and development by NHS Blood and Transplant (NHSBT) 2025. The artefact is about the allocation of scarce resources by the government healthcare system. It is published with a description which illustrates how the operational responsibilities and decision criteria can be made visible without publishing sensitive patient records.
+
+# Justification and Reflection
+It was chosen because it questioned that which all algorithmic ranking is bad. Consequential analysis would make arguments for transplant benefits and Kantian analysis would ask whether allocation is respectful of each patient. My interpretation is that transparency allows for examination but it does not in itself guarantee fairness. When assessing inequalities, the clinical rationale, patient involvement and the selection of allocation criteria should be taken into account.
+
+# Artefact 6: Scholarly analysis of responsible government AI
+Authored by Rawal et al. 2025, Responsible artificial intelligence in U.S. federal government.
+
+# Summary 
+Rawal et al. (2025, pp. 2–3) explain how fairness, reliability, transparency, accountability, privacy and security are interwoven aspects of responsible AI. Federal uses and strategies for assessment are also explored. The version selected was uploaded to the arXiv in January 2025, and should be recognized as a scholarly preprint. Policy discussion is not an indication of what American needs are now.
+
+# Justification and Reflection 
+I selected this artefact because I wanted to link to practical examples from the government with an obvious conceptual framework. It makes me ponder if there is hidden weakness elsewhere in my appearance: an apparent strong player may be a weak player in another area that is easy to explain. The paper doesn't test one agency's compliance but builds concepts, as compared to the Australian audit. Thanks to that distinction I am better equipped to assess the contribution of each source of evidence.

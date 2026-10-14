@@ -51,7 +51,7 @@ This transparency record outlines algorithms for eligibility and ranking of elig
 # Justification and Reflection
 It was chosen because it questioned that which all algorithmic ranking is bad. Consequential analysis would make arguments for transplant benefits and Kantian analysis would ask whether allocation is respectful of each patient. My interpretation is that transparency allows for examination but it does not in itself guarantee fairness. When assessing inequalities, the clinical rationale, patient involvement and the selection of allocation criteria should be taken into account.
 
-# Artefact 6: Scholarly analysis of responsible government AI
+# Artefact 6: Scholarly Article - analysis of responsible government AI
 Authored by Rawal et al. 2025, Responsible artificial intelligence in U.S. federal government.
 
 # Summary 
@@ -59,3 +59,24 @@ Rawal et al. (2025, pp. 2–3) explain how fairness, reliability, transparency, 
 
 # Justification and Reflection 
 I selected this artefact because I wanted to link to practical examples from the government with an obvious conceptual framework. It makes me ponder if there is hidden weakness elsewhere in my appearance: an apparent strong player may be a weak player in another area that is easy to explain. The paper doesn't test one agency's compliance but builds concepts, as compared to the Australian audit. Thanks to that distinction I am better equipped to assess the contribution of each source of evidence.
+
+# Overall reflection
+These artefacts are used to trace an evolution from defining ADM to studying the governance and implications of ADM in practice. The guide will outline the expectations, the strategy and announcement will outline organisational responses, the audit will show the examination of implementation, and the scholarly paper will organise the ethical questions.
+
+The most important lesson I learned in this course for my future practice is to ask 'what is the evidence for a claim that this system is responsible? I would ask information on its purpose, who it affects, testing, monitoring, accountable owners and opportunities to correct. I would also separate out the technical aspects from the quality of the overall public service.
+
+Where the value of responsible ADM is clear and risks can be open to challenge, the value of ADM to government services can be improved. In the context of ethical judgement, both the individual and the collective are to be considered.
+
+# References
+
+A. Rawal, K. Johnson, C. Mitchell, M. Walton, and D. Nwankwo, Responsible artificial intelligence (RAI) in U.S. federal government: principles, policies, and practices, preprint, arXiv, version 1, 2025, https://arxiv.org/abs/2502.03470v1, viewed 14 October 2026.
+
+Governance of artificial intelligence at the Australian Taxation Office, Auditor-General Report No. 26 of 2024–25, Australian National Audit Office (ANAO) 2025, accessed 14 October 2026, from www.anao.gov.au/work/performance-audit/governance-of-artificial-intelligence-the-australian-taxation-office
+
+Commonwealth Ombudsman 2025, Automated decision-making: better practice guide, viewed 14 October 2026, https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf
+
+To read more, see Digital Transformation Agency 2025, viewed 14 October 2026, https://www.dta.gov.au/media-releases/ai-policy-overhauled-new-impact-assessment-tool-and-procurement-guidance.
+
+NHS Blood and Transplant (NHSBT) 2025, viewed 14 October 2026, https://www.gov.uk/algorithmic-transparency-records/nhs-blood-and-transplant-organ-offering-scheme-algorithms
+
+Services Australia 2025, Automation and artificial intelligence strategy 2025–27, viewed 14 October 2026, https://www.servicesaustralia.gov.au/sites/default/files/2025-05/automation-and-ai-strategy-2025-27.pdf
